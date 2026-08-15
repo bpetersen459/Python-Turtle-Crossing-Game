@@ -26,7 +26,7 @@ The goal is to safely reach the top of the screen without colliding with a car.
 ## Project Structure
 
 ```text
-Python-Turtle-Crossing/
+Python-Turtle-Crossing-Game/
 │
 ├── main.py
 ├── player.py
@@ -74,13 +74,13 @@ Contains the `Scoreboard` class responsible for:
 2. Clone this repository:
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/bpetersen459/Python-Turtle-Crossing-Game.git
 ```
 
 3. Navigate into the project folder:
 
 ```bash
-cd Python-Turtle-Crossing
+cd Python-Turtle-Crossing-Game
 ```
 
 4. Run the game:
